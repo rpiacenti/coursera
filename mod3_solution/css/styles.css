@@ -179,6 +179,7 @@ body {
   /* Home Page */
   #page-heading{
     width: 100%;
+	font-size: 1.3em;
    }
 .menu-title1, .menu-title2, .menu-title3{
   font-size: 1em;
@@ -214,6 +215,7 @@ body {
  /* Home Page */
   #page-heading{
     width: 100%;
+	font-size: 1.3em;
    }
 .menu-title1, .menu-title2, .menu-title3{
   font-size: 1em;
